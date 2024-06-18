@@ -19,9 +19,10 @@ Python 3.x
 Jupyter Notebook
 Necessary Python libraries (e.g., TensorFlow, NumPy, Matplotlib)
 
-
-
-
+# Improvements
+* Experiment with deeper networks or adding skip connections.
+* Use data augmentation to improve robustness.
+* Implem**ent advanced loss functions like Structural Similarity Index (SSIM) for better perceptual quality.
 
 
 
